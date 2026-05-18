@@ -3323,6 +3323,11 @@
       "type": "documented",
       "replacementModule": "oxc-resolver"
     },
+    "oxlint": {
+      "id": "oxlint",
+      "type": "documented",
+      "replacementModule": "oxlint"
+    },
     "package-manager-detector": {
       "id": "package-manager-detector",
       "type": "documented",
